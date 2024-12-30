@@ -28,6 +28,10 @@ img {
   transform: translate(-55%);
 }
 
+footer {
+  overflow: hidden;
+}
+
 h1 {
   margin: 10em 0 4em;
   font-weight: bold;
