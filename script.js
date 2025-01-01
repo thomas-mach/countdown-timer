@@ -5,7 +5,7 @@ const seconds = document.getElementById("seconds");
 
 function timer() {
   const now = new Date();
-  const newYear = new Date(2025, 0, 1, 0, 0, 0);
+  const newYear = new Date(2026, 0, 1, 0, 0, 0);
 
   const nowMiliseconds = now.getTime();
   const newYearMiliseconds = newYear.getTime();
